@@ -1,4 +1,4 @@
-# Azure Function triggered by Blob storage
+# Azure Function | Blob trigger example with C#
 This project demonstrates an Azure Function that run when an image in uploaded in the Blob storage.
 The function resize the image then save it back to the Blob storage.
 
